@@ -1,6 +1,10 @@
 # Hotel_Booking_Cancellations_Analysis
 
-Between 2015 and 2017, **City Hotels and Resort Hotels** faced escalating booking cancellations, resulting in significant revenue loss and operational inefficiencies. This project aims to uncover the root causes of cancellations, quantify their impact across hotel types, and identify actionable strategies to reduce cancellation rates. By analyzing factors like lead time, pricing, customer segments, and seasonal trends, the analysis provides insights to optimize booking policies, improve customer retention, and stabilize revenue.
+This analysis investigates booking cancellations in City Hotels and Resort Hotels from 2015 to 2017, aiming to uncover factors contributing to high cancellation rates and offering actionable insights for minimizing cancellations in the future. The goal is to support hotel management with data-driven strategies to optimize booking retention and improve revenue stability.
+
+**Problem Statement:-**
+---
+Between 2015 and 2017, both City Hotels and Resort Hotels experienced significant booking cancellations, leading to revenue loss and operational inefficiencies. The analysis focuses on understanding the key drivers of cancellations, comparing cancellation rates across hotel types, and providing insights for reducing cancellations.
 
 
 **Objectives :-**
