@@ -4,8 +4,9 @@ This analysis investigates booking cancellations in City Hotels and Resort Hotel
 
 **Problem Statement:-**
 ---
-Between 2015 and 2017, both City Hotels and Resort Hotels experienced significant booking cancellations, leading to revenue loss and operational inefficiencies. The analysis focuses on understanding the key drivers of cancellations, comparing cancellation rates across hotel types, and providing insights for reducing cancellations.
+Between 2015 and 2017, both City Hotels and Resort Hotels experienced significant booking cancellations, leading to revenue loss and operational inefficiencies. The analysis focuses on understanding the key drivers of cancellations, comparing cancellation rates across hotel types, and providing insights for reducing cancellations.  
 
+**Dataset Link :-** https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis 
 
 **Objectives :-**
 ---
